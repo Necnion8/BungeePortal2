@@ -1,0 +1,4 @@
+name: BungeePortals2
+version: @version@
+main: com.gmail.necnionch.myplugin.bungeeportals2.bungee.BungeePortals2
+author: Necnion8

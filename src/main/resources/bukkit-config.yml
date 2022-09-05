@@ -1,0 +1,6 @@
+messages:
+  connecting: ""
+  not-found-portal: ""
+  # eg.
+  #  connecting: "&aConnecting to the {server} server..."
+  #  not-found-portal: "&cThere is no destination portal. ({portal})"
